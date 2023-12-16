@@ -1,0 +1,1 @@
+console.log("This is a file in mern10 folder")
